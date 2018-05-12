@@ -1,0 +1,27 @@
+_repo: Funny-Epitaphs_42634
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Eaton, Arthur Wentworth Hamilton
+    alias: Eaton, Arthur Wentworth
+    birthdate: 1849
+    deathdate: 1937
+    gutenberg_agent_id: '41790'
+    url: http://www.gutenberg.org/2009/agents/41790
+covers:
+- cover_type: archival
+  image_path: 42634-h/images/i_cover.jpg
+description: ''
+gutenberg_issued: '2013-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42634'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Epitaphs'
+- !lcc 'PN'
+title: Funny Epitaphs
+url: http://www.gutenberg.org/ebooks/42634
